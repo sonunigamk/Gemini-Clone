@@ -251,9 +251,16 @@
 
     .result-data p{
         font-size: 15px;
+        line-height: 1.5;
 
     }
-
+    .result-data{
+        gap: 5px;
+    }
+    .result-data img{
+        width: 24px;
+    }
+    
 
 
     .search-box img {
@@ -273,8 +280,6 @@
     .bottom-info-box span {
         display: block;
         font-size: 13px;
-        margin: 2px auto;
-        margin-bottom: 2px;
         text-align: center;
         font-weight: 300;
         padding-top: 4px;
